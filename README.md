@@ -1,5 +1,6 @@
 # Data-Structure-Algorithms
-<span style="color : yellow"> Using Java Script </span>
+
+<h2 style="color : rgb(247, 223, 30)"> Using Java Script </h2>
 
 Welcome to my work and attempt at understanding DSA, in depth. This is pretty much what you should know as a fresher, to land job as a Software developer
 
