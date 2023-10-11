@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Maintenance-Active-green)
 ![Static Badge](https://img.shields.io/badge/Javascript-es6?color=yellow)
 
-<h2> Using Java Script </h2>
+<h2> Using Java Script 🚀💻:</h2>
 
 Welcome to my work and attempt at understanding DSA, in depth. This is pretty much what you should know as a fresher, to land job as a Software developer
 
