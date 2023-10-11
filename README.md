@@ -37,4 +37,4 @@ Welcome to my work and attempt at understanding DSA, in depth. This is pretty mu
 [Ping me On LinkedIn](https://www.linkedin.com/in/abhishek-kumar-072a9314a/)
 
 
-> Learning is never done without errors and defeat ! - Vladimir Lenin ☺
+> Learning is never done without errors and defeat ! - Vladimir Lenin 😇
